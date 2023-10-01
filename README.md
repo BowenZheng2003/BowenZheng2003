@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bowenzheng2003&label=Profile%20views&color=0e75b6&style=flat" alt="bowenzheng2003" /> </p>
 
-- 🔭 I’m currently working on **a Deep Learning Model that will be used for Medical Image Analysis**
+- 🔭 I’m currently working on a Deep Learning Model that will be used for Medical Image Analysis
 
-- 🌱 I’m currently learning **React!**
+- 🌱 I’m currently learning React!
 
-- ⚡ Fun fact **I do acrylic and oil paintings in my spare time**
+- ⚡ Fun fact: I do acrylic and oil paintings in my spare time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
