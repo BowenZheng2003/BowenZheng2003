@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React!**
 
+- ⚡ Fun fact **I do acrylic and oil paintings in my spare time**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bowen-zheng-10b97a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bowen-zheng-10b97a250" height="30" width="40" /></a>
